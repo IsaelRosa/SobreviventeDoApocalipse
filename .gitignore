@@ -1,0 +1,23 @@
+# Arquivos compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos do Greenfoot
+*.ctxt
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações IDE
+.vscode/
+.idea/
